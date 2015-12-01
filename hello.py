@@ -1,2 +1,2 @@
 print 'Hey all'
-print 'I am Sampath"
+print 'I am Python"
